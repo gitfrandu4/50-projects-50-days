@@ -45,7 +45,7 @@ body {
     https://stackoverflow.com/questions/40530101/why-is-translatey-50-needed-to-center-an-element-which-is-at-top-50/40530483
     */ 
     height: 4px;
-    width: 50%;
+    width: 0;
     transition: 0.4s ease;
     z-index: -1;
 }
